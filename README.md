@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Saksham6349/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Saksham6349/Leetcode/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/Saksham6349/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0229-majority-element-ii](https://github.com/Saksham6349/Leetcode/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Saksham6349/Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
@@ -45,9 +46,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Saksham6349/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Saksham6349/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Saksham6349/Leetcode/tree/master/0056-merge-intervals) |
+| [0229-majority-element-ii](https://github.com/Saksham6349/Leetcode/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Saksham6349/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Saksham6349/Leetcode/tree/master/0018-4sum) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Saksham6349/Leetcode/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Saksham6349/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
