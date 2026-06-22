@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Saksham6349/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/Saksham6349/Leetcode/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Saksham6349/Leetcode/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/Saksham6349/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,8 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Saksham6349/Leetcode/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Saksham6349/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Saksham6349/Leetcode/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Saksham6349/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
