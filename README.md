@@ -103,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Saksham6349/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Saksham6349/Leetcode/tree/master/0018-4sum) |
+| [0202-happy-number](https://github.com/Saksham6349/Leetcode/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Saksham6349/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/Saksham6349/Leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Saksham6349/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Saksham6349/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Saksham6349/Leetcode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Saksham6349/Leetcode/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
