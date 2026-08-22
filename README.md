@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Saksham6349/Leetcode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/Saksham6349/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Saksham6349/Leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Saksham6349/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Saksham6349/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Saksham6349/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Saksham6349/Leetcode/tree/master/0118-pascals-triangle) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Saksham6349/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Saksham6349/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Saksham6349/Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Saksham6349/Leetcode/tree/master/0202-happy-number) |
 ## Greedy
