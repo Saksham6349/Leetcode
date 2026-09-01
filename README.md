@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Saksham6349/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Saksham6349/Leetcode/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Saksham6349/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Saksham6349/Leetcode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saksham6349/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Saksham6349/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Two Pointers
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Saksham6349/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Saksham6349/Leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Saksham6349/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Saksham6349/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Saksham6349/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
 |  |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Saksham6349/Leetcode/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Saksham6349/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
