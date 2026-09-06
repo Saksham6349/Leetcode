@@ -1,0 +1,54 @@
+name: Solution improved
+description: Track improvements to an existing solution
+title: "refactor: improve [problem-id] [problem-name] solution"
+labels: ["solution-improved"]
+body:
+  - type: input
+    id: problem_id
+    attributes:
+      label: Problem ID
+      description: LeetCode numeric ID (e.g., 0704)
+      placeholder: "0704"
+    validations:
+      required: true
+
+  - type: input
+    id: problem_name
+    attributes:
+      label: Problem Name
+      description: Problem title or slug
+      placeholder: Binary Search
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: change_type
+    attributes:
+      label: Change type
+      options:
+        - label: Complexity improvement
+        - label: Readability improvement
+        - label: Edge-case bug fix
+        - label: Language/style consistency update
+
+  - type: textarea
+    id: before_after
+    attributes:
+      label: What changed
+      description: Briefly describe old approach vs new approach
+      placeholder: Reduced nested branching and improved boundary handling for empty input.
+    validations:
+      required: true
+
+  - type: textarea
+    id: checklist
+    attributes:
+      label: Verification checklist
+      value: |
+        - [ ] Existing behavior preserved (or explicitly fixed)
+        - [ ] Edge cases considered
+        - [ ] Change is scoped to the target problem
+        - [ ] Commit message follows repository standards
+    validations:
+      required: true
+

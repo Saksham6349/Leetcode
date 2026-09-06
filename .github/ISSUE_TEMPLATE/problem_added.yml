@@ -1,0 +1,53 @@
+name: Problem added
+description: Track addition of a new LeetCode problem solution
+title: "feat: add [problem-id] [problem-name]"
+labels: ["problem-added"]
+body:
+  - type: input
+    id: problem_id
+    attributes:
+      label: Problem ID
+      description: LeetCode numeric ID (e.g., 0239)
+      placeholder: "0239"
+    validations:
+      required: true
+
+  - type: input
+    id: problem_name
+    attributes:
+      label: Problem Name
+      description: Problem title or slug
+      placeholder: Sliding Window Maximum
+    validations:
+      required: true
+
+  - type: dropdown
+    id: difficulty
+    attributes:
+      label: Difficulty
+      options:
+        - Easy
+        - Medium
+        - Hard
+    validations:
+      required: true
+
+  - type: input
+    id: topic_tags
+    attributes:
+      label: Topic tags
+      description: Comma-separated tags (e.g., Array, Deque, Sliding Window)
+      placeholder: Array, Deque, Sliding Window
+
+  - type: textarea
+    id: checklist
+    attributes:
+      label: Completion checklist
+      value: |
+        - [ ] Folder follows `<id>-<slug>` format
+        - [ ] Accepted solution added
+        - [ ] Complexity is appropriate
+        - [ ] README/topics sync remains correct
+    validations:
+      required: true
+
