@@ -1,5 +1,55 @@
-# Leetcode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions by Saksham
+
+Structured, interview-focused LeetCode practice with consistent, readable solutions and topic-wise organization.
+
+## Overview
+- Primary language: **C++** (with a small amount of Java)
+- Goal: build strong DSA foundations and reliable interview problem-solving patterns
+- Source sync: repository maintained with [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+## Progress Snapshot
+Based on `/home/runner/work/Leetcode/Leetcode/stats.json`:
+
+| Metric | Count |
+| --- | ---: |
+| Solved | **50** |
+| Easy | **19** |
+| Medium | **27** |
+| Hard | **4** |
+
+## Repository Structure
+- Each problem has its own folder named with LeetCode ID and title slug.
+- Typical folder contents:
+  - `README.md` with the original prompt/metadata
+  - Solution file (usually `.cpp`, occasionally `.java`)
+- Root-level files:
+  - `README.md` (this file)
+  - `stats.json` (solved-count and difficulty summary)
+
+## Problem-Solving Approach
+1. Identify pattern first (binary search, two pointers, DFS/BFS, DP, etc.).
+2. Optimize for correct complexity and edge-case safety.
+3. Keep implementation minimal and readable.
+4. Preserve a consistent style across solutions for quick revision.
+
+## Topic Coverage
+This repository currently covers a broad set of core interview topics, including:
+- Arrays, Binary Search, Two Pointers, Hashing
+- Trees (DFS/BFS/Traversals), Recursion, Stack
+- Dynamic Programming, Prefix Sum, Greedy
+- Matrix, Sorting, Math
+
+## Consistency Rules for Future Solutions
+- Keep one folder per problem using the existing naming convention.
+- Prefer clear variable names and predictable control flow.
+- Include only accepted, production-ready solutions.
+- Avoid unnecessary dependencies and keep runtime/memory efficiency in focus.
+- Keep commits small and scoped to one logical update.
+
+## Contribution Workflow (Personal Standard)
+- Use focused commits (`feat: add 0239 sliding window maximum solution`, `refactor: simplify 0704 binary search`).
+- For improvements, document what changed (complexity/readability/edge cases).
+- Use issue templates for tracking new additions and solution refinements.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
