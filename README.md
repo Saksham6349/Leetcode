@@ -167,6 +167,7 @@ This repository currently covers a broad set of core interview topics, including
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saksham6349/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Saksham6349/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Saksham6349/Leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Saksham6349/Leetcode/tree/master/0229-majority-element-ii) |
@@ -269,6 +270,7 @@ This repository currently covers a broad set of core interview topics, including
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saksham6349/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Saksham6349/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Saksham6349/Leetcode/tree/master/0344-reverse-string) |
 ## Database
@@ -291,4 +293,8 @@ This repository currently covers a broad set of core interview topics, including
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Saksham6349/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Saksham6349/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Saksham6349/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saksham6349/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
