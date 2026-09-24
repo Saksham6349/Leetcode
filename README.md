@@ -76,6 +76,7 @@ This repository currently covers a broad set of core interview topics, including
 | [0229-majority-element-ii](https://github.com/Saksham6349/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Saksham6349/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saksham6349/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Saksham6349/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Saksham6349/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Saksham6349/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saksham6349/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -104,6 +105,7 @@ This repository currently covers a broad set of core interview topics, including
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saksham6349/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Saksham6349/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Saksham6349/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Saksham6349/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Saksham6349/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Saksham6349/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saksham6349/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -154,6 +156,7 @@ This repository currently covers a broad set of core interview topics, including
 | [0056-merge-intervals](https://github.com/Saksham6349/Leetcode/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Saksham6349/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Saksham6349/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Saksham6349/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saksham6349/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Saksham6349/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Two Pointers
@@ -163,6 +166,7 @@ This repository currently covers a broad set of core interview topics, including
 | [0018-4sum](https://github.com/Saksham6349/Leetcode/tree/master/0018-4sum) |
 | [0202-happy-number](https://github.com/Saksham6349/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Saksham6349/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Saksham6349/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saksham6349/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -172,6 +176,7 @@ This repository currently covers a broad set of core interview topics, including
 | [0202-happy-number](https://github.com/Saksham6349/Leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Saksham6349/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Saksham6349/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Saksham6349/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saksham6349/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Saksham6349/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
