@@ -272,6 +272,7 @@ This repository currently covers a broad set of core interview topics, including
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/Saksham6349/Leetcode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Saksham6349/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Saksham6349/Leetcode/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/Saksham6349/Leetcode/tree/master/1068-product-sales-analysis-i) |
