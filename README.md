@@ -273,6 +273,7 @@ This repository currently covers a broad set of core interview topics, including
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Saksham6349/Leetcode/tree/master/0176-second-highest-salary) |
+| [0182-duplicate-emails](https://github.com/Saksham6349/Leetcode/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Saksham6349/Leetcode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Saksham6349/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Saksham6349/Leetcode/tree/master/0595-big-countries) |
