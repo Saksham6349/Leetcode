@@ -162,6 +162,7 @@ This repository currently covers a broad set of core interview topics, including
 | [0015-3sum](https://github.com/Saksham6349/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Saksham6349/Leetcode/tree/master/0018-4sum) |
 | [0202-happy-number](https://github.com/Saksham6349/Leetcode/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/Saksham6349/Leetcode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saksham6349/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -269,6 +270,7 @@ This repository currently covers a broad set of core interview topics, including
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Saksham6349/Leetcode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Saksham6349/Leetcode/tree/master/0344-reverse-string) |
 ## Database
 |  |
 | ------- |
